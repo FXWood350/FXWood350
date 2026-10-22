@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @FXWood350
-- 👀 I’m interested in completely arbitrary things that happen to catch my eye. Jupyter Notebooks are really neat (more of a Labs person though-)
-- 🌱 I’m currently "learning" python, and how to run/manage FreeBSD and Linux machines (mainly openSUSE) 
-- 💞️ I’m looking to collaborate on anything cool that isn't extremely important
-- 📫 How to reach me: My current Discord Handle is Your Local Bog-Roll Seller#0641. But this changes from time to time, so email me at dodgy.offers12@gmail.com and pray you get noticed above all the spam.
+# Hi, I'm Dawood! 👋
 
-<!---
-FXWood350/FXWood350 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a graduate student reading the **MPhysPhil (Master of Physics & Philosophy)** at the **University of Oxford**. 
+
+My work fits around marrying **theoretical/mathematical physics** & **probabilistic modeling & quantitative finance**.
+
+---
+
+### 🔬 What I Do
+
+- **Theoretical & Mathematical Physics:** Gauge field theories, differential geometry, Lie group representations, and lattice spin systems (Ising, Heisenberg).
+- **Quantitative Modeling & Scientific Computing:** MCMC / HMC sampling (NUTS via BlackJAX), Realized stochastic volatility modeling, and SVI applied to high-frequency futures data for derivative pricing.
+- **Foundations & Philosophy:** Philosophy of physics, formal logic, model theory, and classical Indian philosophy.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+- **Languages:** Python & SQL, LaTeX (WIP)
+- **Probabilistic ML & Compute:** JAX, BlackJAX, Flax, SciPy
+- **Data & Engineering:** DuckDB, NumPy, Pandas, Git, Linux (NixOS)
+
+---
+
+### 📌 Selected Projects
+
+- **[MALA Benchmark Engine]((https://github.com/FXWood350/mala-jax-nuclear-pumps))**  
+  Metropolis-Adjusted Langevin Algorithm implemented using Nesterov averaging and something similar to Stan's memoryless windowed adaptation for mass matrices.
+- **WIP: [Realized Stochastic Volatility & Options Tail Pricing](To be added)**  
+  High-frequency (1-min) E-mini S&P 500 futures volatility modeling combining BlackJAX (NUTS) and Stochastic Variational Inference (SVI) in JAX.
+---
